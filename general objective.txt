@@ -1,0 +1,8 @@
+general objective 
+reading literature and then objectives why it is a rpoblem
+justify data collection video
+why i chose sentiment score
+why i did not chose Vader
+
+diagram of the workflow 
+

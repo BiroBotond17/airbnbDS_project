@@ -6,6 +6,21 @@ __pycache__/
 # C extensions
 *.so
 
+# data
+data/
+*.csv
+*.parquet
+
+# large outputs
+*.html
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# env
+.venv/
+
+
 # Distribution / packaging
 .Python
 build/
