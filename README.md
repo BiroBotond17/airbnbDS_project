@@ -216,14 +216,15 @@ The project was developed using Python and several data science and geospatial a
 - Spatial Visualization
 
 ## Team
-Project team:
+- Project team:
 
-Botond Biró
-Saahas Bondalapathi
-Zsombor Tóth
-MSc Business Informatics
-Corvinus University of Budapest
+- Botond Biró
+- Saahas Bondalapathi
+- Zsombor Tóth
 
-Course:
+- MSc Business Informatics
+- Corvinus University of Budapest
 
-Data Science Project in Business, by Associate Professor Tibor Kovács Spring 2026
+- Course:
+
+- Data Science Project in Business, by Associate Professor Tibor Kovács Spring 2026
