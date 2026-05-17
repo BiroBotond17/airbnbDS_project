@@ -219,7 +219,7 @@ The project was developed using Python and several data science and geospatial a
 Project team:
 
 - Botond Biró
-- Saahas Bondalapathi
+- Saahas Bondalapati
 - Zsombor Tóth
 
 MSc Business Informatics, Corvinus University of Budapest
